@@ -1,0 +1,25 @@
+# Security - API Keys and Secrets
+Config.swift
+**/Config.swift
+
+# Xcode
+*.xcuserstate
+*.xcuserdatad/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# macOS
+.DS_Store
+
+# CocoaPods (if used)
+Pods/
+
+# Carthage (if used)
+Carthage/Build/
